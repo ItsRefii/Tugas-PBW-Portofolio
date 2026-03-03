@@ -59,10 +59,12 @@ nav ul li a {
 
 .foto1 {
     width: 400px;
+    border-radius: 10px;
 }
 
 .foto2 {
     width: 400px;
+    border-radius: 10px;
 }
 
 .sidebar {
@@ -106,7 +108,6 @@ footer {
     padding: 10px 20px;
     background-color: #1b1a1a;
     color: white;
-    text-decoration: none;
     border-radius: 5px;
     margin-top: 10px;
     border: none;
