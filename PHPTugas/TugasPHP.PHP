@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Latihan Nilai</title>
+    <title>PENILAIAN</title>
 </head>
 <body>
 
-    <h2>Input Nilai Mahasiswa</h2>
+    <h2>MASUKAN NILAI MAHASISWA</h2>
 
         <form method="post" action="">
             Nama: <input type="text" name="nama"><br><br>
